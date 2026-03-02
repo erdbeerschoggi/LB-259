@@ -9,7 +9,7 @@ daraus verlässliche Vorhersagen ableiten lassen. Man könnte auch mit Machine L
 Wie man sieht, hat man genug Informationen, um mit dieser Datenbank erfolgreiches Machine Learning durchführen zu können.
 
 ## Datenschutz und Massnahmen
-Da die Daten ursprünglich von echten Personen einer Kletter-Community stammen, werden Datenschutz-Richtlinien definitiv betroffen. Es handelt sich hier um persönliche 
+Da die Daten ursprünglich von echten Personen einer Kletter-Community stammen, werden Datenschutz-Richtlinien definitiv tangiert. Es handelt sich hier um persönliche 
 physische Daten mit individuellen Leistungsprofilen. Um den Datenschutz zu gewährleisten, wurden die Daten vom Ersteller auf Kaggle bereits pseudonymisiert 
 bereitgestellt. Deshalb muss ich keine mehr Änderungen vornehmen. Ich könnte noch für extra Datenschutz die Herkunft der Kletterer entfernen, doch diese Daten brauche ich fürs 
 Machine Learning.
