@@ -14,3 +14,5 @@ physische Daten mit individuellen Leistungsprofilen. Um den Datenschutz zu gewä
 bereitgestellt. Deshalb muss ich keine mehr Änderungen vornehmen. Ich könnte noch für extra Datenschutz die Herkunft der Kletterer entfernen, doch diese Daten brauche ich fürs 
 Machine Learning.
 
+## Vorhersage treffen
+Das Datenfeld bei dem ich eine Vorhersage treffen möchte ist grades_max (den maximalen erreichten Klettergrad der einzelnen Athleten). Ziel diese ML-Models wird sein basierend auf den Merkmalen des Kletterers oder der Kletterin (Alter, Größe, Gewicht, Geschlecht und Kletterjahre) vorherzusagen, was das maximale-Kletterniveau dieser Person ist.
